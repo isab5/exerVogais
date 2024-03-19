@@ -8,8 +8,6 @@ let caracteres = palavraMinuscula.split('');
 
 let vogaisEncontradas = caracteres.filter(letra => vogais.includes(letra));
 
-let numeroVogais = palavra;
-
 let numero = vogaisEncontradas.length;
 
 console.log("Texto: " + palavra);

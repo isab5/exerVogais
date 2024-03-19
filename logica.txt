@@ -1,0 +1,13 @@
+atividade - 19/03 - contagem de vogais 
+
+lógica escrita:
+
+1- Ler texto : “equipe”;
+2- Ler vogais (definir vogais): [ “a”, “e”, “i”, “o”, “u”]
+3- Adicionar um .toLowerCase() para deixar todas as vogais minúsculas
+4- Aplicar o .split() para separar ocultamente a palavra
+5- Adicionar o método .filter() para filtrar as vogais do texto
+6- Colocar o .length() para a contagem de vogais no texto
+7- Inserir texto “texto: “ + palavra
+8- Inserir texto “Números totais de vogais: “ + numero
+9- Inserir texto “Vogais encontradas: + vogaisEncotradas.join(“, “))
